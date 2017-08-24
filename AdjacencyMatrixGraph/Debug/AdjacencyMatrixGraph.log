@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AdjacencyMatrixGraph.cpp
+c:\users\mjbea\onedrive\documents\visualstudio projects\adjacencymatrixgraph\adjacencymatrixgraph\adjacencymatrixgraph.cpp(30): warning C4101: 'e': unreferenced local variable
+c:\users\mjbea\onedrive\documents\visualstudio projects\adjacencymatrixgraph\adjacencymatrixgraph\adjacencymatrixgraph.cpp(34): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  AdjacencyMatrixGraph.vcxproj -> C:\Users\mjbea\OneDrive\Documents\VisualStudio Projects\AdjacencyMatrixGraph\Debug\AdjacencyMatrixGraph.exe
+  AdjacencyMatrixGraph.vcxproj -> C:\Users\mjbea\OneDrive\Documents\VisualStudio Projects\AdjacencyMatrixGraph\Debug\AdjacencyMatrixGraph.pdb (Partial PDB)
